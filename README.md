@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farai</h1>
 <h3 align="center">A passionate frontend development and mobile application development from Zimbabwe</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farai-t" alt="farai-t" /></a> </p>
-
 - 🔭 I’m currently working on **Ride sharing application** [Ryde](https://github.com/farai-t/uber-yt) - Ride sharing service using Maps API
 
 - 🌱 I’m currently learning **React Native**
