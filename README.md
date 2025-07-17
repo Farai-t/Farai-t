@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farai</h1>
-<h3 align="center">A passionate frontend development and mobile application development from Zimbabwe</h3>
+<h3 align="center">A passionate frontend and mobile application developer from Zimbabwe</h3>
 
 - 🔭 I’m currently working on **Ride sharing application** [Ryde](https://github.com/farai-t/uber-yt) - Ride sharing service using Maps API
 
