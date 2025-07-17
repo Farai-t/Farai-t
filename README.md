@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farai-t" alt="farai-t" /></a> </p>
 
-- 🔭 I’m currently working on **Ride sharing application**
+- 🔭 I’m currently working on **Ride sharing application**  [Cool Project](https://github.com/farai-t/uber-yt) - Ride sharing service using Maps API
 
 - 🌱 I’m currently learning **React Native**
 
